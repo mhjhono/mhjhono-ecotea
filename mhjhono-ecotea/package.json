@@ -324,7 +324,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhjhono/mhjhono-ecotea.git"
+    "url": "https://github.com/mhjhono/mhjhono-ecotea"
   },
   "bugs": {
     "url": "https://github.com/mhjhono/mhjhono-ecotea/issues"
